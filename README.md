@@ -48,4 +48,4 @@ Entry-level opportunities and internships in:
 - Embedded Systems
 - Graduate Engineering
 
-📫 Email: kj2510@gmail.com
+📫 Email: khanjeeshan2510@gmail.com
